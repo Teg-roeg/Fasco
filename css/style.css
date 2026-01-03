@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+body{
+    max-width: 100vh;
+    background-color: #F5F5F5;
+}
+
+.header{
+    display: flex;
+    
+    align-items: center;
+}
+
+.logo{
+    font-size: 52px;
+    color: #484848;
+}
